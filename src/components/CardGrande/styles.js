@@ -1,3 +1,5 @@
+import React from 'react';
+import styled from 'styled-components'
 
 export const LayoutCardGrande = styled.section`
         display: flex;
